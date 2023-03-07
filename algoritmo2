@@ -1,0 +1,24 @@
+Escreva C para conversão de Celcius para Fahrenheit ou F para Fahrenheit 
+e Celsius:
+Conversão = Leia C ou F
+
+
+TC = leia (Digite a temperatura em Celcius:)
+TF = leia (Digite a temperatura em Fahrenheit:)
+
+
+Se conversão = C 
+
+Faça FórmulaCF = TF = TC * 1,8 + 32
+
+escreva(o resultado é FórmulaCF)
+
+Senão 
+
+conversão = F
+
+Faça FórmulaFC = TC = 5 * (TF - 32)/9
+
+escreva(o resultado é FórmulaFC)
+
+Fim
