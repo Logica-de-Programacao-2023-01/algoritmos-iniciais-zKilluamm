@@ -4,7 +4,7 @@ leia a lista de números
 
 faça leitura da quantidade de números na lista
  
-N = Soma de todos números da lista
+N = Soma(elemento + soma)
 D = Quantidade de números na lista
 
 Resultado = (N/D)
