@@ -1,0 +1,14 @@
+num1 = leia o 1° número
+num2 = leia o 2° número
+
+//mostrar os números
+escreva ( os números selecionados para soma são: num1 e num2)
+
+//efetuar soma dos números
+soma = (num1 + num2)
+
+//saída de dados
+escreva(soma)
+
+fim
+
