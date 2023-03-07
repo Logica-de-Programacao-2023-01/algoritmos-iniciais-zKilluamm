@@ -1,0 +1,14 @@
+// Calculo da média 
+
+leia a lista de números
+
+faça leitura da quantidade de números na lista
+ 
+N = Soma(elemento + soma)
+D = Quantidade de números na lista
+
+Resultado = (N/D)
+
+escreva(Resultado)
+
+Fim
