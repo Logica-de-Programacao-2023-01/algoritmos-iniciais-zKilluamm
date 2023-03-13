@@ -1,0 +1,17 @@
+
+fat = n
+
+escreva( Digite o número para que seja feita a operação fatorial)
+ 
+leia o valor de n inserido pelo usuário
+
+se n > 0 
+ faça (fat = n * (n - 1) * (n - 2)...)
+senão
+escreva(Digite um número maior que 0)
+
+leia o valor de n
+
+escreva(O resultado da operação é (fat))
+
+fim
