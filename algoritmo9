@@ -1,0 +1,20 @@
+var
+
+taxa,principal,montante,FatorJuros,Periodo
+
+inicio
+
+escreva("digite o valor principal:")
+leia(principal)
+escreva("digite a taxa de juros em %")
+leia(taxa)
+escreva("digite o período de tempo (em anos): ")
+leia(periodo)
+
+taxa = taxa/100
+FatorJuros = potencia(1 + taxa,periodo)
+montande = principal * FatorJuros
+
+escreva("O montante após",periodo, " anos com juros compostos é: R$", montante)
+
+fim
