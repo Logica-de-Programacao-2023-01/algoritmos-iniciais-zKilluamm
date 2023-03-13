@@ -1,0 +1,30 @@
+var
+
+numero, divisor, primo
+
+inicio
+
+ escreva("Digite um número inteiro positivo: ")
+leia(numero)
+
+divisor = 2
+primo = verdadeiro
+
+se numero for = 1 então primo = falso
+senão
+ enquanto divisor <= numero/2 faca
+ se numero "resto da divisão" divisor = 0 então
+   primo = falso
+
+pausa
+
+divisor <- divisor + 1
+
+
+
+se for primro
+escreva(numero, "é um número primo)
+senão
+escreva(numero, "não é um numero primo)
+
+fim
