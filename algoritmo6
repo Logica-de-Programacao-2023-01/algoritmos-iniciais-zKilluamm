@@ -1,0 +1,23 @@
+
+var
+base, potencia, resultado
+
+
+escreva(Digite a base)
+Leia a base (número real)
+escreva(Digite a potência)
+Leia a potência (um número inteiro)
+
+//inicializa o resultado com o valor "base"
+resutado = base
+
+//realiza o cálculo da potência
+
+Para i <- 1 até potencia - 1 faça
+    resultado <- resultado * base
+
+// Exibe o resultado ao usuário
+Escreva(O resultado de ", base, " elevado a potência ", potencia, " é igual a ", resultado)
+
+fim
+
