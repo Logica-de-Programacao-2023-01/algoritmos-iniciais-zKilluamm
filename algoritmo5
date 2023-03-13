@@ -1,0 +1,12 @@
+
+ palavra = palavra_lista
+
+escreva(Insira a lista)
+
+leia os dados inseridos
+
+verifique a se palavra = palavra_lista
+ escreva(palavra encontrada)
+Senão
+ escreva(palavra não encontrada) 
+fim
