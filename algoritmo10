@@ -1,0 +1,24 @@
+var
+ 
+media, SomaDosPesos, soma, numero, peso, quantidade
+
+inicio
+escreva("digite a quantidade de números:")
+leia(quantidade)
+
+soma = 0
+soma dos pesos = 0
+
+i de 1 ate quantidade faca
+escreva("digite o", i,"° número:")
+leia(numero)
+escreva("digite o peso correspondente: ")
+leia(peso)
+
+soma = soma + (numero * peso)
+
+media = soma / SomaDosPesos
+
+escreva("a média ponderada é:", media)
+
+fim
